@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitasjoannisnepo00balb_0103.png"; bbox 0 0 2180 2833; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 289 768 1756 909">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 289 768 1756 909">
+     <span class='ocr_line' id='line_1_1' title="bbox 289 768 1756 909; baseline -0.004 -4"><span class='ocrx_word' id='word_1_1' title='bbox 289 768 1756 909; x_wconf 85' lang='lat' dir='ltr'><strong>SUPPLEMENTUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 142 970 1924 1263">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 142 970 1924 1263">
+     <span class='ocr_line' id='line_1_2' title="bbox 142 970 1924 1263; baseline -0.005 -33"><span class='ocrx_word' id='word_1_2' title='bbox 142 1125 227 1230; x_wconf 79' lang='lat' dir='ltr'>s</span> <span class='ocrx_word' id='word_1_3' title='bbox 231 1123 805 1263; x_wconf 80' lang='lat' dir='ltr'>JOANNIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 830 970 1750 1227; x_wconf 55' lang='lat' dir='ltr'>ffldAEMUOENJ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1786 1113 1924 1236; x_wconf 99' lang='grc' dir='ltr'><strong>Μ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 717 1283 1294 1334">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 717 1283 1294 1334">
+     <span class='ocr_line' id='line_1_3' title="bbox 717 1283 1294 1334; baseline 0.003 -4"><span class='ocrx_word' id='word_1_6' title='bbox 717 1283 1294 1334; x_wconf 87' lang='lat' dir='ltr'>OOOOOOOOOOOOO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 788 1568 1202 1616">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 788 1568 1202 1616">
+     <span class='ocr_line' id='line_1_4' title="bbox 788 1568 1202 1616; baseline 0.002 -1"><span class='ocrx_word' id='word_1_7' title='bbox 788 1568 1202 1616; x_wconf 84' lang='lat' dir='ltr'>UUUUUUUU</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 219 1646 1829 1899">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 219 1646 1829 1899">
+     <span class='ocr_line' id='line_1_5' title="bbox 219 1646 1829 1740; baseline 0.001 -6"><span class='ocrx_word' id='word_1_8' title='bbox 219 1646 362 1734; x_wconf 79' lang='lat' dir='ltr'>EX</span> <span class='ocrx_word' id='word_1_9' title='bbox 411 1648 739 1735; x_wconf 84' lang='lat' dir='ltr'>ACTIS</span> <span class='ocrx_word' id='word_1_10' title='bbox 803 1647 1829 1740; x_wconf 82' lang='lat' dir='ltr'>CANONIZATIONIS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 372 1788 1816 1899; baseline -0.004 -8"><span class='ocrx_word' id='word_1_11' title='bbox 372 1788 1051 1898; x_wconf 81' lang='lat' dir='ltr'>EIUSDEM</span> <span class='ocrx_word' id='word_1_12' title='bbox 1117 1793 1681 1899; x_wconf 83' lang='lat' dir='ltr'>SANCTI</span> <span class='ocrx_word' id='word_1_13' title='bbox 1805 1875 1816 1885; x_wconf 87' lang='lat'><strong>.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
